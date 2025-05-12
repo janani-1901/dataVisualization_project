@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dataVisualization_project/static/css/main.b67d2790.css",
-    "main.js": "/dataVisualization_project/static/js/main.83e6a3e2.js",
+    "main.js": "/dataVisualization_project/static/js/main.990caf3c.js",
     "static/js/453.6d34fb87.chunk.js": "/dataVisualization_project/static/js/453.6d34fb87.chunk.js",
     "index.html": "/dataVisualization_project/index.html",
     "main.b67d2790.css.map": "/dataVisualization_project/static/css/main.b67d2790.css.map",
-    "main.83e6a3e2.js.map": "/dataVisualization_project/static/js/main.83e6a3e2.js.map",
+    "main.990caf3c.js.map": "/dataVisualization_project/static/js/main.990caf3c.js.map",
     "453.6d34fb87.chunk.js.map": "/dataVisualization_project/static/js/453.6d34fb87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b67d2790.css",
-    "static/js/main.83e6a3e2.js"
+    "static/js/main.990caf3c.js"
   ]
 }
